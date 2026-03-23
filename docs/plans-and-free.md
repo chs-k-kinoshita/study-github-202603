@@ -30,3 +30,4 @@
     - 1 か月あたり 50 件のエージェント モードまたはチャットリクエスト
     - 1 か月あたり 2,000 件のコード補完
 - Freeプラン利用の限りでは課金（サブスク）設定は不要（GitHub, GitHub Copilot共通）
+- アカウントのSettings＞Billing and licensing からプレミアムリクエストやActions消費時間などの状況確認が可能
