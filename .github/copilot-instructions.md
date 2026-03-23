@@ -17,6 +17,3 @@
 - Follow Clean Architecture principles
 - Vite is used as the build tool and development server
 - Use React functional components with hooks
-
-## CSS Style
-- tailwindcss is the preferred CSS framework
