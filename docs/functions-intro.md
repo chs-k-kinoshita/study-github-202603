@@ -9,7 +9,7 @@
 - [Wiki](#Wiki)
 - [Appendix:特定の役割を持つマークダウンファイル](#特定の役割を持つマークダウンファイル)
 
-※ ここで紹介しきれていない機能もいろいろあると思います（Projectとか）
+※ ここで紹介しきれていない機能もいろいろあると思います（Projects, Discussions, Packages, LFSとか）
 
 # PublicリポジトリとPrivateリポジトリ、Fork
 - 作成時に指定、Settingの「Change repository visibility」設定で後からも変更可能
